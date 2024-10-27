@@ -3,17 +3,6 @@ note for the book Python for Data Analysis: Data Wrangling with Pandas, Numpy, a
 
 # 第01章 Anaconda Jupyter notebook
 
-欲练此功，必先自攻安装和基本操作问题。
-
-## 安装指导
-
-b站教程：Jupyter Notebook介绍（超简易使用教程）——邢不行
-
-或网址：
-https://www.bilibili.com/video/av13343628?from=search&seid=14348640174488610648
-
-小哥哥说话利索，核心问题都解决了，爱你（づ￣3￣）づ╭❤～。
-
 ## 基础操作
 
 CSDN人工智能头条：机器学习新手必看：Jupyter Notebook入门指南
